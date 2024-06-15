@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 我的第一个网站</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on 我的第一个网站</description>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 13 Jun 2024 20:16:50 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>卷积神经网络（CNN）应用领域</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 13 Jun 2024 20:16:50 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>一、卷积神经网络（CNN） （一）应用领域 1、2012年深度学习起来后，计算机视觉（CV）错误率大幅下降，2015年已经低于人类，之后便不再深入了 2、卷积神经网络应用领域 传统神经网络 中间矩阵特别大 速度慢，于是提出了卷积神经网络 （1）检测任务：追踪图像，例如yolov8系列 （2）分类与检索：图像分类，拍照搜图（淘宝、电商之类的） （3）超分辨率重构：图像优化（wifu2x、去马赛克之类的） （4）医学任务：细胞检测、人体透视图动态分析（看病变）、OCR、车牌识别 （5）无人驾驶： （6）人脸识别 （二）卷积的作用 1、卷积神经网络与传统网络区别 （1）输入参数传统的是一列特征，而卷积的是直接输入原始的（多维） （2）整体架构：输入层、卷积层（提取特征）、池化层（压缩特征）、全连接层 </description>
+    </item>
+  </channel>
+</rss>

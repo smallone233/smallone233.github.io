@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-cn'
+title = '我的第一个网站'
+theme = 'hugo-PaperMod'
